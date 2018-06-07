@@ -2,11 +2,7 @@
 xmlns="sap.m" xmlns:viz="sap.viz.ui5.controls" controllerName="chart.controller.VizChart">
 <Page title="Viz Frame">
 <content>
-<<<<<<< Upstream, based on master
-<viz:VizFrame xmlns="sap.viz" id="idcolumn" width="80%">
-=======
 <viz:VizFrame xmlns="sap.viz" id="idcolumn" width="70%">
->>>>>>> 81ff72e 70
 </viz:VizFrame>
 </content>
 </Page>
